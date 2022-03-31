@@ -51,6 +51,7 @@ print (Y_pred)
 plt.scatter(X,Y,color='red')
 plt.plot(X,Y_pred,color='green')
 plt.show()
+*/
 ```
 
 
